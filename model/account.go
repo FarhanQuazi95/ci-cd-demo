@@ -16,7 +16,7 @@ type Account struct {
 	Authority   *Authority `json:"authority"`
 }
 
-// RecordAccount defines struct represents the record of the database.
+// RecordAccount defines struct represents the record of the database   thijjfjfjfkd.
 type RecordAccount struct {
 	ID            uint
 	Name          string
